@@ -1,8 +1,7 @@
-_______
 by Ana Sofia Calixto, Gabe Myerscough, Malin Daves and Rafa Roeder
 
 
-______ is a performance and installation that combine live and pre-retrieved data. 
+This project is a performance and installation that combine live and pre-retrieved data. 
 The space is set up with three screens, which show a Unity environment of a parallel universe with digital bodies.
 All of the dummies were animated using Motion Capture, some are being shown with  pre-retrieved data, and some with live data input.
 The participants enter the physical space and are able to control each camera in Unity with their phone's gyroscope, via OSC.
